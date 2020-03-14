@@ -19,13 +19,13 @@ avatar: https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.graphicsprings.co
 footer-links:
   dribbble:
   email: parthshaileshpatel98@gmail.com
-  facebook:
-  flickr:
+  facebook: https://www.facebook.com/profile.php?id=100003679626667&lst=100003679626667%3A100003679626667%3A1584168563&sk=timeline
+  flickr: 
   github: parthpatel002
   instagram:
-  linkedin:
+  linkedin: https://in.linkedin.com/in/parth-patel-72b868134
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: asdf # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://parthpatel002.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
