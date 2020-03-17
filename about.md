@@ -13,6 +13,7 @@ I am super excited about the recent surge in the use of artificial intelligence 
 I hope you have a great time reading my articles.
 
 [//]: # (At the centre of this revolution are deep neural networks, achieving the state of the art in various tasks like object detection, speech recognition, image generation, etc.
+[//]: # TO DO: Attach Resume.
 
 ### Contact me
 
