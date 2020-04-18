@@ -1,0 +1,18 @@
+DL & ML Resources Useful Collection:
+
+cleverhans.io (Blog by Ian Goodfellow and Nicolas Papernot).
+Jeremy Jordan - Especially Autoencoders.
+Chris Mccormick - Especially Word2Vec SkipGram Model.
+Christopher Olah - Especially LSTM (colah.github.io) [Follow him on distill.pub also].
+Max Pechyonkin - Especially Capsule Networks - https://pechyonkin.me/capsules-1/ .
+Dr Ali Ghodsi - YouTube Lectures.
+Stefano Ermon (Stanford) - https://ermongroup.github.io/cs228-notes/inference/variational/ .
+Madry Lab (MIT) - http://madry-lab.ml .
+
+
+Image Kernels Explained Visually - setosa - http://setosa.io/ev/image-kernels/ .
+https://mithi.github.io/deep-blueberry/ch0-introduction.html
+
+Aiohttp in Python - 
+1) Making 1M requests with python aiohttp - pawelmhm.github.io . 
+2) How to download images with aiohttp - stackoverflow.com .
