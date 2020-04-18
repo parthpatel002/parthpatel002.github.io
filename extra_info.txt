@@ -9,3 +9,5 @@ JS
 http://fastml.com/deep-learning-architecture-diagrams/
 https://www.edrawsoft.com/share-neural-network.php
 
+Extra Reading and Video Resources:
+https://mithi.github.io/deep-blueberry/ch0-introduction.html
