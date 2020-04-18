@@ -1,4 +1,4 @@
-Resources To Draw Network Diagrams:
+Resources To Draw Neural Network Diagrams:
 https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
 https://www.quora.com/What-tools-are-good-for-drawing-neural-network-architecture-diagrams
 https://datascience.stackexchange.com/questions/14899/how-to-draw-deep-learning-network-architecture-diagrams
@@ -8,3 +8,4 @@ Latex
 JS
 http://fastml.com/deep-learning-architecture-diagrams/
 https://www.edrawsoft.com/share-neural-network.php
+
