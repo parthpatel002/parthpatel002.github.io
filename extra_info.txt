@@ -1,3 +1,6 @@
+Display Math on WebPage:
+https://github.com/ermongroup/cs228-notes
+
 Resources To Draw Neural Network Diagrams:
 https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
 https://www.quora.com/What-tools-are-good-for-drawing-neural-network-architecture-diagrams
