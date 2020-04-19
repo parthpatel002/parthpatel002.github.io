@@ -10,11 +10,23 @@ Madry Lab (MIT) - http://madry-lab.ml .
 Stefano Ermon (Stanford) - https://ermongroup.github.io/cs228-notes/inference/variational/ .
 Stefano Ermon (Stanford) - https://deepgenerativemodels.github.io/notes/index.html.
 
+Gilbert Strang (MIT) Linear Algebra Course.
+Stanford Search Courses:
+1) https://explorecourses.stanford.edu .
+2) https://exploredegrees.stanford.edu/coursedescriptions/ .
+Stanford CS Courses: 
+1) https://exploredegrees.stanford.edu/schoolofengineering/computerscience/#courseinventory .
+2) https://exploredegrees.stanford.edu/coursedescriptions/cs/ .
+3) https://cs.stanford.edu/academics/courses .
+4) https://exploredegrees.stanford.edu/soe-ug-majors/cs/ .
+Stanford Maths Courses:
+1)https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/mathematics/#courseinventory .
+Stanford Maths & Computation Courses:
+1) https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/mathematicalandcomputationalscience/#courseinventory .
+
 Jonathan Hui - medium.com .
 Image Kernels Explained Visually - setosa - http://setosa.io/ev/image-kernels/ .
 https://mithi.github.io/deep-blueberry/ch0-introduction.html
-
-Gilbert Strang MIT Linear Algebra Course.
 
 Aiohttp in Python - 
 1) Making 1M requests with python aiohttp - pawelmhm.github.io . 
