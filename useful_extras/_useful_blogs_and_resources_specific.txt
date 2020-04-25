@@ -8,7 +8,8 @@ Max Pechyonkin - Especially Capsule Networks - https://pechyonkin.me/capsules-1/
 Dr Ali Ghodsi - YouTube Lectures.
 Madry Lab (MIT) - http://madry-lab.ml .
 Stefano Ermon (Stanford) - https://ermongroup.github.io/cs228-notes/inference/variational/ .
-Stefano Ermon (Stanford) - https://deepgenerativemodels.github.io/notes/index.html.
+Stefano Ermon (Stanford) - https://deepgenerativemodels.github.io/notes/index.html .
+General Data Science Blogs - https://maelfabien.github.io/ .
 
 Gilbert Strang (MIT) Linear Algebra Course.
 Stanford Search Courses:
