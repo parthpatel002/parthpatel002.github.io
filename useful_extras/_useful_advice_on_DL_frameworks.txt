@@ -1,0 +1,2 @@
+1) https://medium.com/@iliakarmanov/multi-gpu-rosetta-stone-d4fa96162986 ; 
+   https://github.com/ilkarman/DeepLearningFrameworks#2-training-time-densenet-121-on-chestxray---image-recognition-multi-gpu .
