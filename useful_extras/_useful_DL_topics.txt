@@ -1,0 +1,5 @@
+1) Integrated Gradients Attribution Method:
+https://medium.com/@kartikeyabhardwaj98/integrated-gradients-for-deep-neural-networks-c114e3968eae .
+http://theory.stanford.edu/~ataly/Talks/sri_attribution_talk_jun_2017.pdf .
+https://arxiv.org/pdf/1703.01365.pdf .
+
