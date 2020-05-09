@@ -1,1 +1,3 @@
 1) Python Virtual Environment: https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/ .
+2) Ubuntu: https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/ .
+3) Cisco AnyConnect VPN For Ubuntu: https://uci.service-now.com/kb_view.do?sysparm_article=KB0010201 .
