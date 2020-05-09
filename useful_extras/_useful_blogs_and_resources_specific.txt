@@ -25,6 +25,7 @@ Stanford Maths Courses:
 Stanford Maths & Computation Courses:
 1) https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/mathematicalandcomputationalscience/#courseinventory .
 
+Sik-Ho Tsang - medium.com .
 Jonathan Hui - medium.com .
 Image Kernels Explained Visually - setosa - http://setosa.io/ev/image-kernels/ .
 https://mithi.github.io/deep-blueberry/ch0-introduction.html
