@@ -13,5 +13,7 @@ Arxiv Sanity
 Twitter 
 Papers With Code 
 ICLR Virtual 2020.
+Reddit (especially r/MachineLearning subreddit for interesting reads/content). 
+
 
 
