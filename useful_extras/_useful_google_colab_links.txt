@@ -1,0 +1,4 @@
+1) How to prevent Google Colab from disconnecting?: https://medium.com/@shivamrawat_756/how-to-prevent-google-colab-from-disconnecting-717b88a128c0 .
+
+2) Colab Pro: https://towardsdatascience.com/colab-pro-is-it-worth-the-money-32a1744f42a8 .
+
