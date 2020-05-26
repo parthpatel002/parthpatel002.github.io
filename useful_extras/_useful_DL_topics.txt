@@ -3,3 +3,7 @@ https://medium.com/@kartikeyabhardwaj98/integrated-gradients-for-deep-neural-net
 http://theory.stanford.edu/~ataly/Talks/sri_attribution_talk_jun_2017.pdf .
 https://arxiv.org/pdf/1703.01365.pdf .
 
+2) The Lottery Ticket Hypothesis:
+https://arxiv.org/pdf/1803.03635.pdf .
+https://blog.goodaudience.com/one-of-the-most-important-papers-in-modern-machine-learning-was-published-almost-a-year-ago-e46c46255e78 .
+
