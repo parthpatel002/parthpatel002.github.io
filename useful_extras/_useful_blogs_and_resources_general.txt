@@ -3,6 +3,7 @@ Other General Sources To Keep Updated:
 Igor (Co-founder of WhatToLabel): https://towardsdatascience.com/how-to-keep-up-with-the-latest-research-and-trends-in-ml-a45a356b1001 . 
 distill.pub 
 openreview.net
+https://syncedreview.com/ .
 Google Scholar
 Stanford Courses Online Notes (and videos)
 CVPR YouTube Tutorials
