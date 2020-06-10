@@ -1,1 +1,4 @@
 Variational Autoencoder (VAE): https://github.com/pytorch/examples/tree/master/vae
+
+Adversarial Attacks: https://github.com/louis2889184/pytorch-adversarial-training/blob/master/cifar-10/src/attack/fast_gradient_sign_untargeted.py .
+
