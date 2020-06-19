@@ -7,6 +7,7 @@ Madry Lab (MIT) - http://madry-lab.ml .
 Stefano Ermon (Stanford) - https://ermongroup.github.io/cs228-notes/inference/variational/ .
 Stefano Ermon (Stanford) - https://deepgenerativemodels.github.io/notes/index.html .
 Sameer Singh (UCI NLP) - https://medium.com/uci-nlp .
+Karpathy - http://karpathy.github.io/ .
 
 Gilbert Strang (MIT) Linear Algebra Course.
 Stanford Search Courses:
@@ -18,7 +19,7 @@ Stanford CS Courses:
 3) https://cs.stanford.edu/academics/courses .
 4) https://exploredegrees.stanford.edu/soe-ug-majors/cs/ .
 Stanford Maths Courses:
-1)https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/mathematics/#courseinventory .
+1) https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/mathematics/#courseinventory .
 Stanford Maths & Computation Courses:
 1) https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/mathematicalandcomputationalscience/#courseinventory .
 
