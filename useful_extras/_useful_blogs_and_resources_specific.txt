@@ -8,6 +8,7 @@ Stefano Ermon (Stanford) - https://ermongroup.github.io/cs228-notes/inference/va
 Stefano Ermon (Stanford) - https://deepgenerativemodels.github.io/notes/index.html .
 Sameer Singh (UCI NLP) - https://medium.com/uci-nlp .
 Karpathy - http://karpathy.github.io/ .
+Lilian@OpenAI - https://lilianweng.github.io/lil-log/contact.html .
 
 Gilbert Strang (MIT) Linear Algebra Course.
 Stanford Search Courses:
