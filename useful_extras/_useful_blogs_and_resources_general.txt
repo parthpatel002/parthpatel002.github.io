@@ -6,6 +6,7 @@ openreview.net
 https://syncedreview.com/ .
 Google Scholar
 Stanford Courses Online Notes (and videos)
+The Machine Learning Summer School - http://mlss.tuebingen.mpg.de/2020/index.html .
 CVPR YouTube Tutorials
 CVPR Talks
 Medium.com
