@@ -8,3 +8,5 @@
 
 5) Draw Figures: https://draw.io .
 
+6) Open source alternative to Google Docs - CryptPad.
+
