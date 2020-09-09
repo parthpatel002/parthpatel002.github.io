@@ -1,0 +1,3 @@
+1. Hacktoberfest: https://hacktoberfest.digitalocean.com/ .
+2. Google Code-In (GCI): https://codein.withgoogle.com/archive/ .
+3. GSoC Experience: https://vijayphoenix.github.io/blog/gsoc-tensorflow/ .
