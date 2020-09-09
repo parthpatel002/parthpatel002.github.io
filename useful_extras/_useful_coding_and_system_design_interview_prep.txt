@@ -1,0 +1,13 @@
+Courses/Resources:
+1. Grokking the system design interview
+2. Grokking the coding interview
+3. Algoexpert
+4. Engineering blogs of Uber, Facebook, Stripe, Twitter
+5. AOSA (All open-source architectures) 
+6. HighScalability.com (newsletter) websites
+7. Designing Data-Intensive Applications book - Oreilly - Bible of System Design
+8. GitHub - System Design Primer
+
+People:
+1. Abhishek Somani (LinkedIn)
+2. Gaurav Sen (YouTube and Courses)
