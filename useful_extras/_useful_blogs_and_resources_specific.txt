@@ -11,6 +11,14 @@ Karpathy - http://karpathy.github.io/ .
 Lilian@OpenAI - https://lilianweng.github.io/lil-log/contact.html .
 GANs research - https://distill.pub/2019/gan-open-problems/#eval .
 Graduate School Advice - https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html#. 
+Jeremy Jordan - Especially Autoencoders.
+Chris Mccormick - Especially Word2Vec SkipGram Model.
+Max Pechyonkin - Especially Capsule Networks - https://pechyonkin.me/capsules-1/ .
+General Data Science Blogs - https://maelfabien.github.io/ .
+Sik-Ho Tsang - medium.com .
+Jonathan Hui - medium.com .
+Intro To Deep Learning - https://mithi.github.io/deep-blueberry/ch0-introduction.html .
+Brady Neal - Introduction to Causal Inference (https://www.bradyneal.com/causal-inference-course).
 
 Gilbert Strang (MIT) Linear Algebra Course.
 Stanford Search Courses:
@@ -26,16 +34,7 @@ Stanford Maths Courses:
 Stanford Maths & Computation Courses:
 1) https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/mathematicalandcomputationalscience/#courseinventory .
 
-Jeremy Jordan - Especially Autoencoders.
-Chris Mccormick - Especially Word2Vec SkipGram Model.
-Max Pechyonkin - Especially Capsule Networks - https://pechyonkin.me/capsules-1/ .
-General Data Science Blogs - https://maelfabien.github.io/ .
-Sik-Ho Tsang - medium.com .
-Jonathan Hui - medium.com .
-
 Image Kernels Explained Visually - setosa - http://setosa.io/ev/image-kernels/ .
-https://mithi.github.io/deep-blueberry/ch0-introduction.html
-
 Aiohttp in Python - 
-1) Making 1M requests with python aiohttp - pawelmhm.github.io . 
-2) How to download images with aiohttp - stackoverflow.com .
+  1) Making 1M requests with python aiohttp - pawelmhm.github.io . 
+  2) How to download images with aiohttp - stackoverflow.com .
