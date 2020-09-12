@@ -1,6 +1,8 @@
 Other General Sources To Keep Updated:
 
 Igor (Co-founder of WhatToLabel): https://towardsdatascience.com/how-to-keep-up-with-the-latest-research-and-trends-in-ml-a45a356b1001 . 
+The Batch - deeplearning.ai .
+https://www.ai.science/ .
 distill.pub 
 openreview.net
 https://syncedreview.com/ .
@@ -15,9 +17,10 @@ Arxiv Insights YouTube Channel
 Arxiv Sanity 
 Twitter 
 Papers With Code 
-ICLR Virtual 2020.
 Reddit (especially r/MachineLearning subreddit for interesting reads/content). 
+Towards Data Science
 Data Science Newsletters - https://gregondata.com/blog/best-data-science-newsletters .
 Data Science Podcasts - https://gregondata.com/blog/best-data-science-podcasts .
+ICLR Virtual 2020.
 
 
