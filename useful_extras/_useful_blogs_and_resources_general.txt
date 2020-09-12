@@ -17,6 +17,7 @@ Twitter
 Papers With Code 
 ICLR Virtual 2020.
 Reddit (especially r/MachineLearning subreddit for interesting reads/content). 
-
+Data Science Newsletters - https://gregondata.com/blog/best-data-science-newsletters .
+Data Science Podcasts - https://gregondata.com/blog/best-data-science-podcasts .
 
 
