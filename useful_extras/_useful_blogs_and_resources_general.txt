@@ -2,14 +2,26 @@ Other General Sources To Keep Updated:
 
 Igor (Co-founder of WhatToLabel): https://towardsdatascience.com/how-to-keep-up-with-the-latest-research-and-trends-in-ml-a45a356b1001 . 
 The Batch - deeplearning.ai .
-https://www.ai.science/ .
+https://www.ai.science/ OR https://www.youtube.com/user/amirfzpr .
 distill.pub 
+MIT Technology Review.
 openreview.net
 https://syncedreview.com/ .
 Google Scholar
 Stanford Courses Online Notes (and videos)
 The Machine Learning Summer School - http://mlss.tuebingen.mpg.de/2020/index.html .
-Kaggle Competition Solutions - http://ndres.me/kaggle-past-solutions/ 
+Kaggle Competition Solutions - http://ndres.me/kaggle-past-solutions/ .
+https://theaisummer.com/ .
+https://madewithml.com/ .
+datasciencecentral.com .
+https://ai.googleblog.com/ .
+https://www.datascienceweekly.org/ .
+https://www.deeplearningweekly.com/ .
+TWIML AI Podcasts - twimlai.com .
+Import AI - https://jack-clark.net/ .
+https://blogs.nvidia.com/ai-podcast/ .
+https://www.wandb.com/ .
+Yannic Kilcher - https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew .
 Two Minute Papers - https://www.youtube.com/user/keeroyz .
 CVPR YouTube Tutorials
 CVPR Talks
@@ -22,6 +34,7 @@ Reddit (especially r/MachineLearning subreddit for interesting reads/content).
 Towards Data Science
 Data Science Newsletters - https://gregondata.com/blog/best-data-science-newsletters .
 Data Science Podcasts - https://gregondata.com/blog/best-data-science-podcasts .
+analyticsindiamag.com .
 ICLR Virtual 2020.
 
 
