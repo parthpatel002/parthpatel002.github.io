@@ -19,7 +19,11 @@ Sik-Ho Tsang - medium.com .
 Jonathan Hui - medium.com .
 Intro To Deep Learning - https://mithi.github.io/deep-blueberry/ch0-introduction.html .
 Brady Neal - Introduction to Causal Inference (https://www.bradyneal.com/causal-inference-course).
+Graham Neubig - CMU NLP - Videos on YouTube.
+Lena Voita - https://lena-voita.github.io/nlp_course.html .
+Linguistics crash course - https://www.youtube.com/playlist?list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW .
 
+Fast.ai courses. 
 Gilbert Strang (MIT) Linear Algebra Course.
 Stanford Search Courses:
 1) https://explorecourses.stanford.edu .
