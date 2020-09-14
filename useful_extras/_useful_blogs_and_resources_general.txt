@@ -5,6 +5,7 @@ The Batch - deeplearning.ai .
 https://www.ai.science/ OR https://www.youtube.com/user/amirfzpr .
 distill.pub 
 thegradient.pub
+Data Science - amitness (Amit Chaudhary) - https://github.com/amitness/learning .
 LinkedIn 
 MIT Technology Review.
 openreview.net
