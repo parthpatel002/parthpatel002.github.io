@@ -22,6 +22,8 @@ Brady Neal - Introduction to Causal Inference (https://www.bradyneal.com/causal-
 Graham Neubig - CMU NLP - Videos on YouTube.
 Lena Voita - https://lena-voita.github.io/nlp_course.html .
 Linguistics crash course - https://www.youtube.com/playlist?list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW .
+Eugene Yan - Applid ML (https://github.com/eugeneyan/applied-ml).
+Eugene Yan - ML Survey Papers (https://github.com/eugeneyan/ml-surveys).
 
 Fast.ai courses. 
 Gilbert Strang (MIT) Linear Algebra Course.
