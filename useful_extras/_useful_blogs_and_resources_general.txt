@@ -4,6 +4,7 @@ Igor (Co-founder of WhatToLabel): https://towardsdatascience.com/how-to-keep-up-
 The Batch - deeplearning.ai .
 https://www.ai.science/ OR https://www.youtube.com/user/amirfzpr .
 distill.pub 
+thegradient.pub
 MIT Technology Review.
 openreview.net
 https://syncedreview.com/ .
