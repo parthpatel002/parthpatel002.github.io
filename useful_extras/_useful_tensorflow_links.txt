@@ -1,11 +1,12 @@
-1) 
+TF2.0 in 30 days: https://github.com/lyhue1991/eat_tensorflow2_in_30_days .
+
 Iterate Over Dataset in TF: https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428 .
 Length of Dataset: https://github.com/tensorflow/tensorflow/issues/26966 .
 Custom Dataset from Images Folder: 
   https://stackoverflow.com/a/52417770 .
   https://stackoverflow.com/questions/44416764/loading-folders-of-images-in-tensorflow .
 
-2) tf.gfile: https://stackoverflow.com/questions/42922948/why-use-tensorflow-gfile-for-file-i-o/ .
+tf.gfile: https://stackoverflow.com/questions/42922948/why-use-tensorflow-gfile-for-file-i-o/ .
 
-3) gin.configurable: https://github.com/google/gin-config/blob/master/docs/index.md#making-functions-and-classes-configurable-with-ginconfigurable .
+gin.configurable: https://github.com/google/gin-config/blob/master/docs/index.md#making-functions-and-classes-configurable-with-ginconfigurable .
 
