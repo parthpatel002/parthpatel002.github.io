@@ -10,3 +10,7 @@
 
 6) Open source alternative to Google Docs - CryptPad.
 
+7) InstaPaper.
+
+8) OneTab.
+
