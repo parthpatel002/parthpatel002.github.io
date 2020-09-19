@@ -25,6 +25,7 @@ Linguistics crash course - https://www.youtube.com/playlist?list=PL8dPuuaLjXtP5m
 Eugene Yan - Applid ML (https://github.com/eugeneyan/applied-ml).
 Eugene Yan - ML Survey Papers (https://github.com/eugeneyan/ml-surveys).
 Soheil Feizi - Foundations of DL @ CMU - http://www.cs.umd.edu/class/fall2020/cmsc828W/ .
+Gautam Kamath - Differential Privacy Course - https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp .
 
 Fast.ai courses. 
 Gilbert Strang (MIT) Linear Algebra Course.
