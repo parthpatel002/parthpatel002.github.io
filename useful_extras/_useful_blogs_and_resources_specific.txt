@@ -30,7 +30,7 @@ Books for starting out with NLP - https://twitter.com/omarsar0/status/1307295873
 MLOps - https://github.com/visenger/awesome-mlops .
 Robert Tjarko Lange - https://roberttlange.github.io/year-archive/ .
 PapersExplained Youtube Channel - Annotated Papers.
-
+Dynabench (Facebook) - Benchmarking NLP tasks.
 
 Fast.ai courses. 
 Gilbert Strang (MIT) Linear Algebra Course.
