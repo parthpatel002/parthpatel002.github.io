@@ -1,3 +1,5 @@
 1. Hacktoberfest: https://hacktoberfest.digitalocean.com/ .
 2. Google Code-In (GCI): https://codein.withgoogle.com/archive/ .
 3. GSoC Experience: https://vijayphoenix.github.io/blog/gsoc-tensorflow/ .
+4. Data Science for Social Good Platforms - https://towardsdatascience.com/using-data-science-for-social-good-c654a6580484. 
+
