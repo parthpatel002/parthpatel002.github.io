@@ -32,6 +32,7 @@ Robert Tjarko Lange - https://roberttlange.github.io/year-archive/ .
 PapersExplained Youtube Channel - Annotated Papers.
 Dynabench (Facebook) - Benchmarking NLP tasks.
 Rasa NLP - https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb .
+ML Production - https://blog.maiot.io/ .
 
 Fast.ai courses. 
 Gilbert Strang (MIT) Linear Algebra Course.
