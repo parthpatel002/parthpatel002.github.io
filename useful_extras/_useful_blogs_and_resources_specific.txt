@@ -37,6 +37,7 @@ ML Production - https://blog.maiot.io/ .
 ML Producion Resources - https://threader.app/thread/1311988141050531846 .
 Data Engineer Roadmap - https://github.com/datastacktv/data-engineer-roadmap. 
 NLP Pandect/Encyclopedia - https://github.com/ivan-bilan/The-NLP-Pandect .
+Practical NLP - https://github.com/practical-nlp/practical-nlp .
 
 Fast.ai courses. 
 Gilbert Strang (MIT) Linear Algebra Course.
