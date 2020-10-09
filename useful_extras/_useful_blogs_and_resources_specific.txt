@@ -36,6 +36,7 @@ Rasa NLP - https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-
 ML Production - https://blog.maiot.io/ .
 ML Producion Resources - https://threader.app/thread/1311988141050531846 .
 Data Engineer Roadmap - https://github.com/datastacktv/data-engineer-roadmap. 
+NLP Pandect/Encyclopedia - https://github.com/ivan-bilan/The-NLP-Pandect .
 
 Fast.ai courses. 
 Gilbert Strang (MIT) Linear Algebra Course.
