@@ -39,7 +39,7 @@ Data Engineer Roadmap - https://github.com/datastacktv/data-engineer-roadmap.
 NLP Pandect/Encyclopedia - https://github.com/ivan-bilan/The-NLP-Pandect .
 Practical NLP - https://github.com/practical-nlp/practical-nlp .
 Deep RL Course - https://simoninithomas.github.io/deep-rl-course/ .
-Maths for ML - https://twitter.com/omarsar0/status/1315960142664474624 .
+Maths for ML - https://elvissaravia.substack.com/p/my-recommendations-to-learn-mathematics .
 
 Fast.ai courses. 
 Gilbert Strang (MIT) Linear Algebra Course.
