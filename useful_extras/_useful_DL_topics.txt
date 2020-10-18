@@ -7,3 +7,6 @@ https://arxiv.org/pdf/1703.01365.pdf .
 https://arxiv.org/pdf/1803.03635.pdf .
 https://blog.goodaudience.com/one-of-the-most-important-papers-in-modern-machine-learning-was-published-almost-a-year-ago-e46c46255e78 .
 
+3) Overview of Normalization Techniques in Neural Networks:
+https://theaisummer.com/normalization/
+
