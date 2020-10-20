@@ -40,6 +40,7 @@ NLP Pandect/Encyclopedia - https://github.com/ivan-bilan/The-NLP-Pandect .
 Practical NLP - https://github.com/practical-nlp/practical-nlp .
 Deep RL Course - https://simoninithomas.github.io/deep-rl-course/ .
 Maths for ML - https://elvissaravia.substack.com/p/my-recommendations-to-learn-mathematics .
+Python course - https://github.com/dabeaz-course/practical-python/blob/master/Notes/Contents.md. 
 
 Fast.ai courses. 
 Gilbert Strang (MIT) Linear Algebra Course.
