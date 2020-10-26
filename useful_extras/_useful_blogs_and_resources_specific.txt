@@ -42,6 +42,7 @@ Deep RL Course - https://simoninithomas.github.io/deep-rl-course/ .
 Maths for ML - https://elvissaravia.substack.com/p/my-recommendations-to-learn-mathematics .
 Python course - https://github.com/dabeaz-course/practical-python/blob/master/Notes/Contents.md. 
 Javascript Course - https://github.com/Asabeneh/30-Days-Of-Javascript. 
+https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc .
 
 Fast.ai courses. 
 Gilbert Strang (MIT) Linear Algebra Course.
