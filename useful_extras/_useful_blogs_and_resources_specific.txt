@@ -49,6 +49,7 @@ Optimization (Christian S. Perone) - https://drive.google.com/file/d/1e_9W8q9PL2
 NLP and ML Survey Papers - https://github.com/NiuTrans/ABigSurvey. 
 Transformers - https://twitter.com/omarsar0/status/1344633106867884033?s=19
 ML Cheat SHeets - https://stanford.edu/~shervine/teaching/cs-229/
+Linear Algebra - https://github.com/MacroAnalyst/Linear_Algebra_With_Python
 
 Fast.ai courses. 
 Gilbert Strang (MIT) Linear Algebra Course.
