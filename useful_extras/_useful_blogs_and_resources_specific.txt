@@ -50,6 +50,8 @@ NLP and ML Survey Papers - https://github.com/NiuTrans/ABigSurvey.
 Transformers - https://twitter.com/omarsar0/status/1344633106867884033?s=19
 ML Cheat SHeets - https://stanford.edu/~shervine/teaching/cs-229/
 Linear Algebra - https://github.com/MacroAnalyst/Linear_Algebra_With_Python
+Self Supervised Learning - https://paperswithcode.com/newsletter/6/
+
 
 Fast.ai courses. 
 Gilbert Strang (MIT) Linear Algebra Course.
