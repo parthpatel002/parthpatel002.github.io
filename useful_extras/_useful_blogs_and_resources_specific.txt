@@ -56,6 +56,7 @@ Machine Learning with Graphs: https://youtube.com/playlist?list=PLoROMvodv4rPLKx
 Making AI work with small Data : https://landing.ai/making-ai-work-with-small-data-2/?utm_campaign=mv_blog_small_data&utm_medium=organicsocial&utm_source=linkedin&utm_content=blog_small_data.
 Graph CNN : https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial7/GNN_overview.html. 
 ML Interview Preparation Book: https://huyenchip.com/ml-interviews-book/. 
+AI Pay Grade - https://aipaygrad.es/. 
 
 
 Fast.ai courses. 
